@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders as expected 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardHeader-root makeStyles-root-1"
+    >
+      <div
+        class="MuiCardHeader-content"
+      >
+        <span
+          class="MuiTypography-root MuiCardHeader-title MuiTypography-h5 MuiTypography-displayBlock"
+        >
+          Title: Snappy Snaps, my memoir
+        </span>
+        <span
+          class="MuiTypography-root MuiCardHeader-subheader MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+        >
+          By: George Michael
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiCardContent-root makeStyles-content-2"
+    >
+      <span
+        aria-hidden="true"
+        class="material-icons MuiIcon-root"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9H9V9h10v2zm-4 4H9v-2h6v2zm4-8H9V5h10v2z"
+          />
+        </svg>
+      </span>
+      <h6
+        class="MuiTypography-root MuiTypography-subtitle2"
+      >
+        Page Count: 420
+      </h6>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextPrimary"
+      >
+        Publishing details
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        City: Landan mate
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        Country: UK
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+      >
+        Year: 2003
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
